@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/43f0e723-5581-4774-95f9-09326
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+   **Deployment:**
+https://emd-agriscan-558176489635.us-west1.run.app
