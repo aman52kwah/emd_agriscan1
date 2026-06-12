@@ -49,8 +49,8 @@ export default function Header({
             <Sprout className="h-5 w-5 text-earth-100" />
           </div>
           <div>
-            <h1 className="text-base font-bold text-white leading-none tracking-tight">
-              SunoAgri
+            <h1 className="text-base font-extrabold text-white leading-none tracking-tight uppercase">
+              EMD AGRISCAN
             </h1>
             <p className="text-[10px] text-earth-300 font-mono">
               COMMUNITY EXTENSION 2.0

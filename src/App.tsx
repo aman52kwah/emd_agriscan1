@@ -523,10 +523,10 @@ export default function App() {
         {/* Logo/Branding Header */}
         <div className="flex items-center gap-3 mb-8 md:mb-12">
           <div className="w-10 h-10 bg-emerald-500 rounded-lg flex items-center justify-center font-bold text-xl text-emerald-950 shadow-md">
-            S
+            E
           </div>
           <div>
-            <span className="text-xl font-bold tracking-tight block">SunoAgri AI</span>
+            <span className="text-xl font-extrabold tracking-tight block uppercase">EMD AGRISCAN</span>
             <p className="text-[10px] text-emerald-300 font-mono tracking-widest uppercase">Extension Gap Closer</p>
           </div>
         </div>
