@@ -1,0 +1,6 @@
+{
+  "name": "West African Farmer Advisory Portal",
+  "description": "An AI-driven advisory tool providing localized, multi-lingual, and offline-first agricultural advice, crop stress diagnosis, and climate-smart planting schedules for West African smallholder farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
